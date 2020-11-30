@@ -1,0 +1,8 @@
+D:\Program\Прога\Lab 12 (шаблоны)\Lab 12\Debug\Lab 12.exe
+D:\Program\Прога\Lab 12 (шаблоны)\Lab 12\Debug\Lab 12.pdb
+D:\Program\Прога\Lab 12 (шаблоны)\Lab 12 (очередь)\Debug\Lab 12.exe
+D:\Program\Прога\Lab 12 (шаблоны)\Lab 12 (очередь)\Debug\Lab 12.pdb
+C:\Users\User\Desktop\Lab 12 (очередь)\Debug\Lab 12.exe
+C:\Users\User\Desktop\Lab 12 (очередь)\Debug\Lab 12.pdb
+C:\Users\User\Desktop\Lab12 (списки)\Debug\Lab 12.exe
+C:\Users\User\Desktop\Lab12 (списки)\Debug\Lab 12.pdb
